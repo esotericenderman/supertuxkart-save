@@ -501,50 +501,57 @@ moving the mouse (means acceleration).
     <!-- Represents the saved state of a GP -->
     <SavedGP
         player_id="1"
-        gp_id="1_penguinplayground"
+        gp_id="2_offthebeatentrack"
         race_type="1100"
         difficulty="1"
         player_karts="1"
-        last_track="4"
+        last_track="1"
         reverse_type="0"
         skipped_tracks="0"
         time_target="0.000000"
         player_total_laps="0"
     >
         <Kart
-            ident="tux"
-            score="20"
-            local_player_id="0"
-            global_player_id="-1"
-            overall_time="740.051636"
-        />
-        <Kart
-            ident="konqi"
-            score="14"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="762.408081"
-        />
-        <Kart
-            ident="puffy"
-            score="10"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="766.326721"
-        />
-        <Kart
             ident="kiki"
-            score="5"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="800.927124"
-        />
-        <Kart
-            ident="emule"
             score="3"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="789.041504"
+            overall_time="188.505051"
+        />
+        <Kart
+            ident="konqi"
+            score="2"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="188.874619"
+        />
+        <Kart
+            ident="emule"
+            score="1"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="192.393433"
+        />
+        <Kart
+            ident="gavroche"
+            score="0"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="197.836304"
+        />
+        <Kart
+            ident="pidgin"
+            score="5"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="186.187408"
+        />
+        <Kart
+            ident="tux"
+            score="7"
+            local_player_id="0"
+            global_player_id="-1"
+            overall_time="185.337143"
         />
     </SavedGP>
 
