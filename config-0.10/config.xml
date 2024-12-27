@@ -505,7 +505,7 @@ moving the mouse (means acceleration).
         race_type="1100"
         difficulty="1"
         player_karts="1"
-        last_track="3"
+        last_track="4"
         reverse_type="0"
         skipped_tracks="0"
         time_target="0.000000"
@@ -513,45 +513,45 @@ moving the mouse (means acceleration).
     >
         <Kart
             ident="pidgin"
-            score="17"
+            score="19"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="537.356628"
+            overall_time="685.421021"
         />
         <Kart
             ident="tux"
-            score="17"
+            score="24"
             local_player_id="0"
             global_player_id="-1"
-            overall_time="542.734253"
+            overall_time="688.300903"
         />
         <Kart
             ident="emule"
-            score="8"
+            score="13"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="558.176453"
+            overall_time="703.759766"
+        />
+        <Kart
+            ident="konqi"
+            score="6"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="706.808411"
         />
         <Kart
             ident="kiki"
             score="5"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="570.659363"
-        />
-        <Kart
-            ident="konqi"
-            score="5"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="555.842896"
+            overall_time="724.472168"
         />
         <Kart
             ident="gavroche"
-            score="2"
+            score="5"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="570.638306"
+            overall_time="717.538635"
         />
     </SavedGP>
 

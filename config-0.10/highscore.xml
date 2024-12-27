@@ -1,5 +1,15 @@
 <?xml version="1.0"?>
 <highscores version="4">
+  <highscore track-name    ="zengarden"
+             number-karts  ="6"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="4"
+             reverse       ="false">
+             <entry time    ="145.567"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
   <highscore track-name    ="volcano_island"
              number-karts  ="5"
              difficulty    ="1"
