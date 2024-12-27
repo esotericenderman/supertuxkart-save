@@ -498,4 +498,54 @@ moving the mouse (means acceleration).
     <!-- Allows one to set commandline args in config file -->
     <commandline value="" />
 
+    <!-- Represents the saved state of a GP -->
+    <SavedGP
+        player_id="1"
+        gp_id="1_penguinplayground"
+        race_type="1100"
+        difficulty="1"
+        player_karts="1"
+        last_track="1"
+        reverse_type="0"
+        skipped_tracks="0"
+        time_target="0.000000"
+        player_total_laps="0"
+    >
+        <Kart
+            ident="konqi"
+            score="6"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="174.671204"
+        />
+        <Kart
+            ident="kiki"
+            score="0"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="196.673172"
+        />
+        <Kart
+            ident="puffy"
+            score="4"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="177.523529"
+        />
+        <Kart
+            ident="emule"
+            score="1"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="182.414856"
+        />
+        <Kart
+            ident="tux"
+            score="2"
+            local_player_id="0"
+            global_player_id="-1"
+            overall_time="180.565033"
+        />
+    </SavedGP>
+
 </stkconfig>
