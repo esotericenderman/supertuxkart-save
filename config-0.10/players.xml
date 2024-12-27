@@ -9,7 +9,7 @@
             remember-password="false"
             default-kart-color="0">
       <story-mode first-time="false" finished="false" speedrun-finished="false"
-                  story-ms="711992" speedrun-ms="725499">
+                  story-ms="965778" speedrun-ms="980626">
         <abyss solved="none" best_while_slower="false"/>
         <candela_city solved="none" best_while_slower="false"/>
         <cocoa_temple solved="none" best_while_slower="false"/>
@@ -27,7 +27,7 @@
         <mines solved="none" best_while_slower="false"/>
         <minigolf solved="none" best_while_slower="false"/>
         <olivermath solved="none" best_while_slower="false"/>
-        <sandtrack solved="none" best_while_slower="false"/>
+        <sandtrack solved="medium" best_while_slower="false"/>
         <scotland solved="none" best_while_slower="false"/>
         <snowmountain solved="none" best_while_slower="false"/>
         <snowpeak solved="none" best_while_slower="false"/>
@@ -58,49 +58,49 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="2"/>
-          <var counter="1"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="2"/>
           <var counter="2"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="0"/>
-          <var counter="6"/>
-          <var counter="2"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="32"/>
-          <var counter="16"/>
-          <var counter="13"/>
-          <var counter="1"/>
-          <var counter="1"/>
           <var counter="0"/>
           <var counter="3"/>
+          <var counter="3"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="7"/>
+          <var counter="2"/>
           <var counter="1"/>
+          <var counter="1"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="35"/>
+          <var counter="3"/>
+          <var counter="16"/>
+          <var counter="1"/>
+          <var counter="0"/>
+          <var counter="1"/>
+          <var counter="3"/>
+          <var counter="0"/>
           <var counter="2"/>
           <var counter="5"/>
+          <var counter="0"/>
           <var counter="3"/>
           <var counter="2"/>
           <var counter="1"/>
-          <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
@@ -120,7 +120,7 @@
           <track_stats ident="minigolf" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="olivermath" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="ravenbridge_mansion" sta="1" fin="1" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="sandtrack" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="sandtrack" sta="1" fin="1" won="0" fin_rev="0" fin_al="1" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="scotland" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="snowmountain" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="snowtuxpeak" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
