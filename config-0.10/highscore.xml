@@ -6,6 +6,9 @@
              hscore-type   ="HST_STANDARD"
              number-of-laps="2"
              reverse       ="false">
+             <entry time    ="199.554"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
              <entry time    ="200.508"
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
