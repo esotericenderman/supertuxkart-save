@@ -505,53 +505,53 @@ moving the mouse (means acceleration).
         race_type="1100"
         difficulty="1"
         player_karts="1"
-        last_track="1"
+        last_track="2"
         reverse_type="0"
         skipped_tracks="0"
         time_target="0.000000"
         player_total_laps="0"
     >
         <Kart
-            ident="kiki"
-            score="3"
+            ident="tux"
+            score="10"
+            local_player_id="0"
+            global_player_id="-1"
+            overall_time="347.684875"
+        />
+        <Kart
+            ident="pidgin"
+            score="12"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="188.505051"
+            overall_time="340.174133"
+        />
+        <Kart
+            ident="kiki"
+            score="5"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="351.076843"
         />
         <Kart
             ident="konqi"
             score="2"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="188.874619"
+            overall_time="354.141907"
         />
         <Kart
             ident="emule"
-            score="1"
+            score="6"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="192.393433"
+            overall_time="353.439423"
         />
         <Kart
             ident="gavroche"
-            score="0"
+            score="1"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="197.836304"
-        />
-        <Kart
-            ident="pidgin"
-            score="5"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="186.187408"
-        />
-        <Kart
-            ident="tux"
-            score="7"
-            local_player_id="0"
-            global_player_id="-1"
-            overall_time="185.337143"
+            overall_time="361.823792"
         />
     </SavedGP>
 
