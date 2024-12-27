@@ -9,7 +9,7 @@
             remember-password="false"
             default-kart-color="0">
       <story-mode first-time="false" finished="false" speedrun-finished="false"
-                  story-ms="5182414" speedrun-ms="5272958">
+                  story-ms="5211074" speedrun-ms="5303236">
         <abyss solved="medium" best_while_slower="false"/>
         <candela_city solved="none" best_while_slower="false"/>
         <cocoa_temple solved="none" best_while_slower="false"/>
@@ -69,7 +69,7 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="40"/>
+          <var counter="41"/>
           <var counter="21"/>
           <var counter="2"/>
           <var counter="2"/>
@@ -88,22 +88,22 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="310"/>
-          <var counter="17"/>
+          <var counter="0"/>
           <var counter="21"/>
           <var counter="21"/>
-          <var counter="2"/>
+          <var counter="0"/>
           <var counter="6"/>
           <var counter="17"/>
           <var counter="0"/>
           <var counter="3"/>
           <var counter="52"/>
-          <var counter="2"/>
+          <var counter="0"/>
           <var counter="8"/>
           <var counter="19"/>
           <var counter="0"/>
           <var counter="3"/>
           <var counter="63"/>
-          <var counter="5"/>
+          <var counter="0"/>
           <var counter="13"/>
           <var counter="0"/>
           <var counter="6"/>
