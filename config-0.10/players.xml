@@ -9,9 +9,9 @@
             remember-password="false"
             default-kart-color="0">
       <story-mode first-time="false" finished="false" speedrun-finished="false"
-                  story-ms="5211074" speedrun-ms="5303236">
+                  story-ms="5382851" speedrun-ms="5505200">
         <abyss solved="medium" best_while_slower="false"/>
-        <candela_city solved="none" best_while_slower="false"/>
+        <candela_city solved="medium" best_while_slower="false"/>
         <cocoa_temple solved="none" best_while_slower="false"/>
         <cornfield_crossing solved="medium" best_while_slower="false"/>
         <fortmagma solved="none" best_while_slower="false"/>
@@ -53,54 +53,54 @@
         <achievement id="11" achieved="false"/>
         <achievement id="12" achieved="false"/>
           <data version="4"/>
-          <var counter="16"/>
-          <var counter="16"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="1"/>
-          <var counter="6"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="23"/>
-          <var counter="23"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="41"/>
-          <var counter="21"/>
-          <var counter="2"/>
-          <var counter="2"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="310"/>
-          <var counter="0"/>
-          <var counter="21"/>
-          <var counter="21"/>
-          <var counter="0"/>
-          <var counter="6"/>
+          <var counter="17"/>
           <var counter="17"/>
           <var counter="0"/>
+          <var counter="0"/>
+          <var counter="2"/>
+          <var counter="6"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="24"/>
+          <var counter="24"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="43"/>
+          <var counter="22"/>
+          <var counter="2"/>
+          <var counter="2"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="331"/>
+          <var counter="21"/>
+          <var counter="21"/>
+          <var counter="23"/>
+          <var counter="2"/>
+          <var counter="6"/>
+          <var counter="18"/>
+          <var counter="1"/>
           <var counter="3"/>
-          <var counter="52"/>
-          <var counter="0"/>
+          <var counter="54"/>
+          <var counter="2"/>
           <var counter="8"/>
-          <var counter="19"/>
-          <var counter="0"/>
+          <var counter="20"/>
+          <var counter="1"/>
           <var counter="3"/>
           <var counter="63"/>
           <var counter="0"/>
@@ -109,7 +109,7 @@
           <var counter="6"/>
           <track_stats ident="abyss" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="black_forest" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="candela_city" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="candela_city" sta="1" fin="1" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="cocoa_temple" sta="1" fin="1" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="cornfield_crossing" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="fortmagma" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
