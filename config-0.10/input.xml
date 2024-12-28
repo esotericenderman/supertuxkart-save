@@ -15,11 +15,11 @@ Event 3 : Gamepad button press
     <action name="steerRight" event="1" id="68" />
     <action name="accel" event="1" id="87" />
     <action name="brake" event="1" id="83" />
-    <action name="nitro" event="1" id="78" />
-    <action name="drift" event="1" id="86" />
+    <action name="nitro" event="1" id="66" />
+    <action name="drift" event="1" id="67" />
     <action name="rescue" event="1" id="8" />
     <action name="fire" event="1" id="32" />
-    <action name="lookBack" event="1" id="66" />
+    <action name="lookBack" event="1" id="86" />
     <action name="pauserace" event="1" id="27" />
     <action name="menuUp" event="1" id="38" />
     <action name="menuDown" event="1" id="40" />
