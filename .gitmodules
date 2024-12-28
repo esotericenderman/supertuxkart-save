@@ -1,0 +1,3 @@
+[submodule "esotericenderman"]
+	path = profile
+	url = git@github.com:esotericenderman/esotericenderman.git

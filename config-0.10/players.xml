@@ -2,7 +2,7 @@
 <players version="1" >
     <current player="Esoteric&#x20;Enderman"/>
     <player name="Esoteric&#x20;Enderman" guest="false" use-frequency="4"
-            icon-filename="1.png"
+            icon-filename="../profile/Assets/Profile Picture.png"
             unique-id="1" saved-session="false"
             saved-user="0" saved-token=""
             last-online-name="" last-was-online="false"
