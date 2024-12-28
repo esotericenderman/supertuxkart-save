@@ -160,7 +160,7 @@
         remember_window_location="false"
         window_x="-1"
         window_y="-1"
-        show_fps="false"
+        show_fps="true"
         show_story_mode_timer="true"
         show_speedrun_timer="false"
         max_fps="120"
