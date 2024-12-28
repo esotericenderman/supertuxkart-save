@@ -10,7 +10,7 @@ Event 3 : Gamepad button press
     'id' indicates which button, starting from 0
 -->
 
-<keyboard enabled="true" configName="">
+<keyboard enabled="true" configName="Keyboard">
      <action name="steerLeft" event="1" id="65" />
     <action name="steerRight" event="1" id="68" />
     <action name="accel" event="1" id="87" />
