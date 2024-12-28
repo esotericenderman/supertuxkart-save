@@ -282,7 +282,7 @@
         animated-characters="true"
         geometry_level="0"
         anisotropic="4"
-        swap-interval="0"
+        swap-interval="1"
         motionblur_enabled="false"
         mlaa="false"
         ssao="false"
