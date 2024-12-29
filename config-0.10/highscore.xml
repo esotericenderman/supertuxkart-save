@@ -249,6 +249,16 @@
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
   </highscore>
+  <highscore track-name    ="minigolf"
+             number-karts  ="9"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="4"
+             reverse       ="false">
+             <entry time    ="139.992"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
   <highscore track-name    ="hacienda"
              number-karts  ="5"
              difficulty    ="1"
