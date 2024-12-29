@@ -505,7 +505,7 @@ moving the mouse (means acceleration).
         race_type="1101"
         difficulty="1"
         player_karts="1"
-        last_track="2"
+        last_track="3"
         reverse_type="0"
         skipped_tracks="0"
         time_target="0.000000"
@@ -513,52 +513,52 @@ moving the mouse (means acceleration).
     >
         <Kart
             ident="tux"
-            score="20"
+            score="30"
             local_player_id="0"
             global_player_id="-1"
-            overall_time="285.932556"
+            overall_time="429.595215"
         />
         <Kart
             ident="suzanne"
-            score="10"
+            score="17"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="310.261902"
-        />
-        <Kart
-            ident="wilber"
-            score="6"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="318.879639"
+            overall_time="459.401794"
         />
         <Kart
             ident="gavroche"
-            score="8"
+            score="13"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="307.080750"
-        />
-        <Kart
-            ident="sara_the_racer"
-            score="2"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="335.630615"
+            overall_time="458.856476"
         />
         <Kart
             ident="puffy"
-            score="8"
+            score="11"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="307.207458"
+            overall_time="461.147827"
+        />
+        <Kart
+            ident="wilber"
+            score="7"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="485.102539"
         />
         <Kart
             ident="kiki"
             score="2"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="326.221588"
+            overall_time="495.879761"
+        />
+        <Kart
+            ident="sara_the_racer"
+            score="4"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="498.764862"
         />
     </SavedGP>
 

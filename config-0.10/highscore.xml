@@ -226,6 +226,16 @@
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
   </highscore>
+  <highscore track-name    ="lighthouse"
+             number-karts  ="7"
+             difficulty    ="1"
+             hscore-type   ="HST_STD_TIMETRIAL"
+             number-of-laps="4"
+             reverse       ="false">
+             <entry time    ="143.663"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
   <highscore track-name    ="abyss"
              number-karts  ="5"
              difficulty    ="1"
