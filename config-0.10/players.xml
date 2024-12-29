@@ -9,7 +9,7 @@
             remember-password="false"
             default-kart-color="0">
       <story-mode first-time="false" finished="true" speedrun-finished="false"
-                  story-ms="12736184" speedrun-ms="15098500">
+                  story-ms="12736184" speedrun-ms="15339097">
         <abyss solved="medium" best_while_slower="false"/>
         <candela_city solved="medium" best_while_slower="false"/>
         <cocoa_temple solved="medium" best_while_slower="false"/>
@@ -23,7 +23,7 @@
         <green_valley solved="hard" best_while_slower="false"/>
         <hacienda solved="hard" best_while_slower="false"/>
         <lighthouse solved="medium" best_while_slower="false"/>
-        <mansion solved="medium" best_while_slower="false"/>
+        <mansion solved="hard" best_while_slower="false"/>
         <mines solved="medium" best_while_slower="false"/>
         <minigolf solved="medium" best_while_slower="false"/>
         <olivermath solved="medium" best_while_slower="false"/>
@@ -53,8 +53,8 @@
         <achievement id="11" achieved="false"/>
         <achievement id="12" achieved="false"/>
           <data version="4"/>
-          <var counter="35"/>
-          <var counter="29"/>
+          <var counter="36"/>
+          <var counter="30"/>
           <var counter="6"/>
           <var counter="0"/>
           <var counter="1"/>
@@ -65,12 +65,12 @@
           <var counter="0"/>
           <var counter="67"/>
           <var counter="50"/>
-          <var counter="8"/>
-          <var counter="5"/>
+          <var counter="12"/>
+          <var counter="6"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="103"/>
-          <var counter="42"/>
+          <var counter="108"/>
+          <var counter="43"/>
           <var counter="17"/>
           <var counter="13"/>
           <var counter="0"/>
@@ -87,23 +87,23 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="854"/>
-          <var counter="25"/>
+          <var counter="867"/>
+          <var counter="13"/>
           <var counter="37"/>
           <var counter="68"/>
-          <var counter="1"/>
+          <var counter="0"/>
           <var counter="6"/>
           <var counter="39"/>
-          <var counter="1"/>
+          <var counter="0"/>
           <var counter="3"/>
           <var counter="134"/>
-          <var counter="4"/>
+          <var counter="0"/>
           <var counter="8"/>
-          <var counter="71"/>
-          <var counter="3"/>
+          <var counter="72"/>
+          <var counter="1"/>
           <var counter="6"/>
-          <var counter="559"/>
-          <var counter="22"/>
+          <var counter="579"/>
+          <var counter="17"/>
           <var counter="35"/>
           <var counter="0"/>
           <var counter="12"/>
@@ -119,7 +119,7 @@
           <track_stats ident="mines" sta="13" fin="3" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="minigolf" sta="8" fin="4" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="olivermath" sta="5" fin="5" won="2" fin_rev="0" fin_al="0" l_laps="5" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="ravenbridge_mansion" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="ravenbridge_mansion" sta="6" fin="3" won="3" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="sandtrack" sta="3" fin="3" won="0" fin_rev="0" fin_al="2" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="scotland" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="snowmountain" sta="2" fin="2" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
