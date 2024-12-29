@@ -1,5 +1,7 @@
 # Super Tux Kart Save
 
+[![Project Status: Maintained](./.assets/images/badges/status/maintained.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/esotericenderman/supertuxkart-save?style=for-the-badge&logo=github&label=Repository%20size)](./)
+
 This is my save file for Super Tux Kart.
 
 ## License
