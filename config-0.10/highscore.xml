@@ -56,6 +56,16 @@
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
   </highscore>
+  <highscore track-name    ="volcano_island"
+             number-karts  ="6"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="2"
+             reverse       ="false">
+             <entry time    ="160.307"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
   <highscore track-name    ="stk_enterprise"
              number-karts  ="8"
              difficulty    ="1"
