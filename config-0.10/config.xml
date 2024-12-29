@@ -505,7 +505,7 @@ moving the mouse (means acceleration).
         race_type="1100"
         difficulty="1"
         player_karts="1"
-        last_track="2"
+        last_track="3"
         reverse_type="0"
         skipped_tracks="0"
         time_target="0.000000"
@@ -513,59 +513,59 @@ moving the mouse (means acceleration).
     >
         <Kart
             ident="tux"
-            score="19"
+            score="30"
             local_player_id="0"
             global_player_id="-1"
-            overall_time="550.180542"
+            overall_time="724.612793"
+        />
+        <Kart
+            ident="pidgin"
+            score="21"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="741.442566"
+        />
+        <Kart
+            ident="kiki"
+            score="20"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="746.156494"
         />
         <Kart
             ident="konqi"
             score="11"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="564.952881"
-        />
-        <Kart
-            ident="kiki"
-            score="12"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="568.099792"
-        />
-        <Kart
-            ident="pidgin"
-            score="15"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="562.942322"
-        />
-        <Kart
-            ident="wilber"
-            score="3"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="590.164429"
+            overall_time="769.527771"
         />
         <Kart
             ident="sara_the_racer"
-            score="4"
+            score="8"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="586.104492"
-        />
-        <Kart
-            ident="adiumy"
-            score="2"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="592.901917"
+            overall_time="769.119873"
         />
         <Kart
             ident="xue"
+            score="5"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="777.346619"
+        />
+        <Kart
+            ident="wilber"
+            score="6"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="775.947144"
+        />
+        <Kart
+            ident="adiumy"
             score="4"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="587.728271"
+            overall_time="780.544250"
         />
     </SavedGP>
 
