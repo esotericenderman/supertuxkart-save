@@ -9,7 +9,7 @@
             remember-password="false"
             default-kart-color="0">
       <story-mode first-time="false" finished="true" speedrun-finished="false"
-                  story-ms="12736184" speedrun-ms="14316173">
+                  story-ms="12736184" speedrun-ms="14520984">
         <abyss solved="medium" best_while_slower="false"/>
         <candela_city solved="medium" best_while_slower="false"/>
         <cocoa_temple solved="medium" best_while_slower="false"/>
@@ -27,7 +27,7 @@
         <mines solved="medium" best_while_slower="false"/>
         <minigolf solved="medium" best_while_slower="false"/>
         <olivermath solved="medium" best_while_slower="false"/>
-        <sandtrack solved="medium" best_while_slower="false"/>
+        <sandtrack solved="hard" best_while_slower="false"/>
         <scotland solved="medium" best_while_slower="false"/>
         <snowmountain solved="medium" best_while_slower="false"/>
         <snowpeak solved="medium" best_while_slower="false"/>
@@ -60,19 +60,19 @@
           <var counter="2"/>
           <var counter="6"/>
           <var counter="2"/>
-          <var counter="0"/>
+          <var counter="2"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="67"/>
           <var counter="50"/>
-          <var counter="2"/>
-          <var counter="2"/>
+          <var counter="3"/>
+          <var counter="3"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="95"/>
+          <var counter="96"/>
           <var counter="40"/>
-          <var counter="15"/>
-          <var counter="12"/>
+          <var counter="16"/>
+          <var counter="13"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
@@ -87,24 +87,24 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="814"/>
-          <var counter="24"/>
+          <var counter="817"/>
+          <var counter="3"/>
           <var counter="37"/>
           <var counter="67"/>
-          <var counter="3"/>
+          <var counter="0"/>
           <var counter="6"/>
           <var counter="38"/>
-          <var counter="1"/>
+          <var counter="0"/>
           <var counter="3"/>
           <var counter="130"/>
-          <var counter="5"/>
+          <var counter="0"/>
           <var counter="8"/>
-          <var counter="65"/>
-          <var counter="2"/>
+          <var counter="66"/>
+          <var counter="1"/>
           <var counter="6"/>
-          <var counter="510"/>
+          <var counter="520"/>
+          <var counter="10"/>
           <var counter="35"/>
-          <var counter="28"/>
           <var counter="0"/>
           <var counter="10"/>
           <track_stats ident="abyss" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
@@ -120,7 +120,7 @@
           <track_stats ident="minigolf" sta="8" fin="4" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="olivermath" sta="5" fin="5" won="2" fin_rev="0" fin_al="0" l_laps="5" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="ravenbridge_mansion" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="sandtrack" sta="2" fin="2" won="0" fin_rev="0" fin_al="1" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="sandtrack" sta="3" fin="3" won="0" fin_rev="0" fin_al="2" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="scotland" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="snowmountain" sta="2" fin="2" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="snowtuxpeak" sta="2" fin="2" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
