@@ -9,7 +9,7 @@
             remember-password="false"
             default-kart-color="0">
       <story-mode first-time="false" finished="false" speedrun-finished="false"
-                  story-ms="9711613" speedrun-ms="9895692">
+                  story-ms="9998284" speedrun-ms="10184859">
         <abyss solved="medium" best_while_slower="false"/>
         <candela_city solved="medium" best_while_slower="false"/>
         <cocoa_temple solved="medium" best_while_slower="false"/>
@@ -20,7 +20,7 @@
         <gp3 solved="medium" best_while_slower="false"/>
         <gp4 solved="none" best_while_slower="false"/>
         <granparadiso_island solved="medium" best_while_slower="false"/>
-        <green_valley solved="none" best_while_slower="false"/>
+        <green_valley solved="medium" best_while_slower="false"/>
         <hacienda solved="medium" best_while_slower="false"/>
         <lighthouse solved="medium" best_while_slower="false"/>
         <mansion solved="medium" best_while_slower="false"/>
@@ -53,24 +53,24 @@
         <achievement id="11" achieved="false"/>
         <achievement id="12" achieved="false"/>
           <data version="4"/>
-          <var counter="26"/>
-          <var counter="21"/>
+          <var counter="27"/>
+          <var counter="22"/>
           <var counter="5"/>
           <var counter="0"/>
-          <var counter="2"/>
+          <var counter="3"/>
           <var counter="6"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="46"/>
-          <var counter="39"/>
+          <var counter="47"/>
+          <var counter="40"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="65"/>
-          <var counter="29"/>
+          <var counter="67"/>
+          <var counter="30"/>
           <var counter="13"/>
           <var counter="10"/>
           <var counter="0"/>
@@ -87,28 +87,28 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="526"/>
-          <var counter="10"/>
+          <var counter="552"/>
           <var counter="26"/>
-          <var counter="35"/>
-          <var counter="2"/>
+          <var counter="26"/>
+          <var counter="39"/>
+          <var counter="4"/>
           <var counter="6"/>
-          <var counter="28"/>
+          <var counter="29"/>
           <var counter="1"/>
           <var counter="3"/>
-          <var counter="82"/>
-          <var counter="3"/>
+          <var counter="88"/>
+          <var counter="6"/>
           <var counter="8"/>
-          <var counter="38"/>
-          <var counter="0"/>
+          <var counter="40"/>
+          <var counter="2"/>
           <var counter="4"/>
-          <var counter="301"/>
-          <var counter="15"/>
+          <var counter="315"/>
+          <var counter="14"/>
           <var counter="24"/>
           <var counter="0"/>
           <var counter="9"/>
           <track_stats ident="abyss" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="black_forest" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="black_forest" sta="1" fin="1" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="candela_city" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="cocoa_temple" sta="5" fin="3" won="1" fin_rev="0" fin_al="1" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="cornfield_crossing" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
