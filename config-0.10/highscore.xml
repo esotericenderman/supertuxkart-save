@@ -16,6 +16,9 @@
              hscore-type   ="HST_STD_TIMETRIAL"
              number-of-laps="4"
              reverse       ="false">
+             <entry time    ="125.732"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
              <entry time    ="131.492"
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
