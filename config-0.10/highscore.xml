@@ -528,4 +528,15 @@
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
   </highscore>
+  <highscore track-name    ="4_atworldsend"
+             number-karts  ="9"
+             difficulty    ="2"
+             hscore-type   ="HST_GRANDPRIX"
+             number-of-laps="0"
+             reverse-type  ="0"
+             minor-mode    ="1100">
+             <entry time    ="1008.63"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
 </highscores>
