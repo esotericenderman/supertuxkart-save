@@ -48,7 +48,7 @@
         soccer-time-limit="3"
         soccer-use-time-limit="false"
         random-arena-item="false"
-        difficulty="2"
+        difficulty="3"
         game_mode="0"
         soccer-red-ai-num="0"
         soccer-blue-ai-num="0"
@@ -60,7 +60,7 @@
     </RaceSetup>
 
     <!-- Kart to select by default (the last used kart) -->
-    <kart value="tux" />
+    <kart value="amanda" />
 
     <!-- Last selected kart group -->
     <last_kart_group value="standard" />
@@ -497,62 +497,5 @@ moving the mouse (means acceleration).
 
     <!-- Allows one to set commandline args in config file -->
     <commandline value="" />
-
-    <!-- Represents the saved state of a GP -->
-    <SavedGP
-        player_id="1"
-        gp_id="1_penguinplayground"
-        race_type="1100"
-        difficulty="2"
-        player_karts="1"
-        last_track="4"
-        reverse_type="0"
-        skipped_tracks="0"
-        time_target="0.000000"
-        player_total_laps="0"
-    >
-        <Kart
-            ident="tux"
-            score="28"
-            local_player_id="0"
-            global_player_id="-1"
-            overall_time="613.359131"
-        />
-        <Kart
-            ident="suzanne"
-            score="16"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="635.671387"
-        />
-        <Kart
-            ident="puffy"
-            score="9"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="644.646423"
-        />
-        <Kart
-            ident="kiki"
-            score="8"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="671.126953"
-        />
-        <Kart
-            ident="adiumy"
-            score="8"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="660.478638"
-        />
-        <Kart
-            ident="sara_the_racer"
-            score="3"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="674.397339"
-        />
-    </SavedGP>
 
 </stkconfig>
