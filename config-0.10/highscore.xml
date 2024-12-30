@@ -568,6 +568,9 @@
              <entry time    ="150.436"
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
+             <entry time    ="163.431"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
   </highscore>
   <highscore track-name    ="1_penguinplayground"
              number-karts  ="5"
