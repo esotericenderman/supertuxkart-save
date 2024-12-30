@@ -505,7 +505,7 @@ moving the mouse (means acceleration).
         race_type="1100"
         difficulty="2"
         player_karts="1"
-        last_track="3"
+        last_track="4"
         reverse_type="0"
         skipped_tracks="0"
         time_target="0.000000"
@@ -513,66 +513,66 @@ moving the mouse (means acceleration).
     >
         <Kart
             ident="tux"
-            score="42"
+            score="45"
             local_player_id="0"
             global_player_id="-1"
-            overall_time="617.105713"
-        />
-        <Kart
-            ident="konqi"
-            score="24"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="660.116333"
+            overall_time="820.243286"
         />
         <Kart
             ident="kiki"
-            score="27"
+            score="41"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="651.706177"
+            overall_time="840.639343"
+        />
+        <Kart
+            ident="konqi"
+            score="32"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="858.821655"
+        />
+        <Kart
+            ident="sara_the_racer"
+            score="24"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="883.618713"
+        />
+        <Kart
+            ident="nolok"
+            score="16"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="882.999573"
         />
         <Kart
             ident="pidgin"
-            score="9"
+            score="10"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="686.645874"
-        />
-        <Kart
-            ident="gnu"
-            score="9"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="696.973389"
+            overall_time="890.749023"
         />
         <Kart
             ident="wilber"
             score="9"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="691.974365"
+            overall_time="897.440186"
         />
         <Kart
-            ident="sara_the_racer"
+            ident="gnu"
             score="13"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="687.147217"
-        />
-        <Kart
-            ident="nolok"
-            score="10"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="683.885498"
+            overall_time="899.737122"
         />
         <Kart
             ident="amanda"
-            score="4"
+            score="6"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="717.629517"
+            overall_time="921.602051"
         />
     </SavedGP>
 
