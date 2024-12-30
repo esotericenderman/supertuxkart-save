@@ -445,6 +445,9 @@
              hscore-type   ="HST_STANDARD"
              number-of-laps="3"
              reverse       ="false">
+             <entry time    ="143.113"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="amanda"/>
              <entry time    ="145.231"
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
