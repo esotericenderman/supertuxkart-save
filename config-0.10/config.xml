@@ -501,11 +501,11 @@ moving the mouse (means acceleration).
     <!-- Represents the saved state of a GP -->
     <SavedGP
         player_id="1"
-        gp_id="2_offthebeatentrack"
+        gp_id="1_penguinplayground"
         race_type="1100"
         difficulty="2"
         player_karts="1"
-        last_track="4"
+        last_track="1"
         reverse_type="0"
         skipped_tracks="0"
         time_target="0.000000"
@@ -513,52 +513,45 @@ moving the mouse (means acceleration).
     >
         <Kart
             ident="puffy"
-            score="26"
+            score="2"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="601.885376"
+            overall_time="154.167587"
+        />
+        <Kart
+            ident="adiumy"
+            score="3"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="152.287445"
+        />
+        <Kart
+            ident="sara_the_racer"
+            score="1"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="159.309082"
+        />
+        <Kart
+            ident="kiki"
+            score="0"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="168.201569"
+        />
+        <Kart
+            ident="suzanne"
+            score="5"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="148.778351"
         />
         <Kart
             ident="tux"
-            score="23"
+            score="7"
             local_player_id="0"
             global_player_id="-1"
-            overall_time="584.491455"
-        />
-        <Kart
-            ident="xue"
-            score="13"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="616.113770"
-        />
-        <Kart
-            ident="nolok"
-            score="11"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="611.573730"
-        />
-        <Kart
-            ident="gnu"
-            score="18"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="612.956055"
-        />
-        <Kart
-            ident="emule"
-            score="11"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="621.932373"
-        />
-        <Kart
-            ident="gavroche"
-            score="10"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="628.389832"
+            overall_time="144.947708"
         />
     </SavedGP>
 
