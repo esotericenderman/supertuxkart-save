@@ -505,60 +505,60 @@ moving the mouse (means acceleration).
         race_type="1100"
         difficulty="2"
         player_karts="1"
-        last_track="2"
+        last_track="3"
         reverse_type="0"
         skipped_tracks="0"
         time_target="0.000000"
         player_total_laps="0"
     >
         <Kart
-            ident="tux"
-            score="13"
-            local_player_id="0"
-            global_player_id="-1"
-            overall_time="290.462097"
-        />
-        <Kart
             ident="puffy"
-            score="17"
+            score="24"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="296.504883"
+            overall_time="468.893738"
+        />
+        <Kart
+            ident="tux"
+            score="23"
+            local_player_id="0"
+            global_player_id="-1"
+            overall_time="449.841431"
         />
         <Kart
             ident="xue"
             score="12"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="297.447876"
-        />
-        <Kart
-            ident="nolok"
-            score="3"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="308.279541"
+            overall_time="482.866180"
         />
         <Kart
             ident="gnu"
-            score="7"
+            score="8"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="304.690887"
+            overall_time="487.548828"
+        />
+        <Kart
+            ident="nolok"
+            score="8"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="481.232056"
         />
         <Kart
             ident="emule"
-            score="3"
+            score="6"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="314.295776"
+            overall_time="491.934418"
         />
         <Kart
             ident="gavroche"
-            score="1"
+            score="3"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="318.850037"
+            overall_time="499.731506"
         />
     </SavedGP>
 
