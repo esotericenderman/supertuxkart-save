@@ -33,6 +33,16 @@
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
   </highscore>
+  <highscore track-name    ="zengarden"
+             number-karts  ="7"
+             difficulty    ="2"
+             hscore-type   ="HST_STD_TIMETRIAL"
+             number-of-laps="4"
+             reverse       ="false">
+             <entry time    ="111.662"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
   <highscore track-name    ="xr591"
              number-karts  ="1"
              difficulty    ="1"
