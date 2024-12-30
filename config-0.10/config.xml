@@ -505,7 +505,7 @@ moving the mouse (means acceleration).
         race_type="1100"
         difficulty="2"
         player_karts="1"
-        last_track="2"
+        last_track="3"
         reverse_type="0"
         skipped_tracks="0"
         time_target="0.000000"
@@ -513,45 +513,45 @@ moving the mouse (means acceleration).
     >
         <Kart
             ident="tux"
-            score="14"
+            score="21"
             local_player_id="0"
             global_player_id="-1"
-            overall_time="296.402039"
+            overall_time="446.838470"
         />
         <Kart
             ident="suzanne"
-            score="8"
+            score="11"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="302.570435"
+            overall_time="465.880920"
         />
         <Kart
-            ident="adiumy"
-            score="3"
+            ident="kiki"
+            score="6"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="315.451599"
+            overall_time="493.761810"
         />
         <Kart
             ident="puffy"
-            score="4"
+            score="9"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="311.640930"
+            overall_time="464.431580"
+        />
+        <Kart
+            ident="adiumy"
+            score="5"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="484.043640"
         />
         <Kart
             ident="sara_the_racer"
             score="2"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="318.776978"
-        />
-        <Kart
-            ident="kiki"
-            score="5"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="320.890839"
+            overall_time="494.671936"
         />
     </SavedGP>
 

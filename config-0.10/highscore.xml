@@ -540,6 +540,16 @@
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
   </highscore>
+  <highscore track-name    ="abyss"
+             number-karts  ="6"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="150.436"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
   <highscore track-name    ="1_penguinplayground"
              number-karts  ="5"
              difficulty    ="1"
