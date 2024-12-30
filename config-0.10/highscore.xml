@@ -119,6 +119,16 @@
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
   </highscore>
+  <highscore track-name    ="snowtuxpeak"
+             number-karts  ="7"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="136.262"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
   <highscore track-name    ="sandtrack"
              number-karts  ="1"
              difficulty    ="1"
