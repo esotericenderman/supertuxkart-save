@@ -49,7 +49,7 @@
         soccer-use-time-limit="false"
         random-arena-item="false"
         difficulty="1"
-        game_mode="2"
+        game_mode="3"
         soccer-red-ai-num="0"
         soccer-blue-ai-num="0"
         karts-powerup-gui="false"
