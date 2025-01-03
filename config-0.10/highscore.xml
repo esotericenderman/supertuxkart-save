@@ -331,6 +331,9 @@
              <entry time    ="149.571"
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
+             <entry time    ="151.633"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
   </highscore>
   <highscore track-name    ="scotland"
              number-karts  ="5"
