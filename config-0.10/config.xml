@@ -498,4 +498,75 @@ moving the mouse (means acceleration).
     <!-- Allows one to set commandline args in config file -->
     <commandline value="" />
 
+    <!-- Represents the saved state of a GP -->
+    <SavedGP
+        player_id="1"
+        gp_id="3_tothemoonandback"
+        race_type="1101"
+        difficulty="2"
+        player_karts="1"
+        last_track="1"
+        reverse_type="0"
+        skipped_tracks="0"
+        time_target="0.000000"
+        player_total_laps="0"
+    >
+        <Kart
+            ident="suzanne"
+            score="6"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="93.287865"
+        />
+        <Kart
+            ident="adiumy"
+            score="8"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="92.698067"
+        />
+        <Kart
+            ident="amanda"
+            score="0"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="117.159943"
+        />
+        <Kart
+            ident="puffy"
+            score="2"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="103.497437"
+        />
+        <Kart
+            ident="emule"
+            score="1"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="106.983238"
+        />
+        <Kart
+            ident="kiki"
+            score="3"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="100.455376"
+        />
+        <Kart
+            ident="konqi"
+            score="4"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="95.167526"
+        />
+        <Kart
+            ident="tux"
+            score="11"
+            local_player_id="0"
+            global_player_id="-1"
+            overall_time="91.121132"
+        />
+    </SavedGP>
+
 </stkconfig>
