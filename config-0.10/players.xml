@@ -9,7 +9,7 @@
             remember-password="false"
             default-kart-color="0">
       <story-mode first-time="false" finished="true" speedrun-finished="false"
-                  story-ms="17571407" speedrun-ms="21862742">
+                  story-ms="17571407" speedrun-ms="22030869">
         <abyss solved="hard" best_while_slower="false"/>
         <candela_city solved="hard" best_while_slower="false"/>
         <cocoa_temple solved="medium" best_while_slower="false"/>
@@ -57,20 +57,20 @@
           <var counter="51"/>
           <var counter="7"/>
           <var counter="0"/>
-          <var counter="1"/>
+          <var counter="0"/>
           <var counter="6"/>
-          <var counter="1"/>
+          <var counter="0"/>
           <var counter="5"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="67"/>
           <var counter="50"/>
-          <var counter="39"/>
-          <var counter="28"/>
+          <var counter="40"/>
+          <var counter="29"/>
           <var counter="20"/>
           <var counter="8"/>
-          <var counter="171"/>
-          <var counter="72"/>
+          <var counter="174"/>
+          <var counter="73"/>
           <var counter="18"/>
           <var counter="14"/>
           <var counter="0"/>
@@ -87,23 +87,23 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="1348"/>
-          <var counter="14"/>
+          <var counter="1358"/>
+          <var counter="0"/>
           <var counter="37"/>
-          <var counter="130"/>
-          <var counter="2"/>
+          <var counter="132"/>
+          <var counter="0"/>
           <var counter="6"/>
           <var counter="54"/>
           <var counter="0"/>
           <var counter="4"/>
-          <var counter="222"/>
-          <var counter="2"/>
+          <var counter="224"/>
+          <var counter="0"/>
           <var counter="10"/>
-          <var counter="110"/>
-          <var counter="1"/>
+          <var counter="112"/>
+          <var counter="0"/>
           <var counter="6"/>
-          <var counter="1175"/>
-          <var counter="11"/>
+          <var counter="1182"/>
+          <var counter="0"/>
           <var counter="35"/>
           <var counter="0"/>
           <var counter="17"/>
@@ -118,7 +118,7 @@
           <track_stats ident="lighthouse" sta="3" fin="3" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="mines" sta="14" fin="4" won="3" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="minigolf" sta="9" fin="5" won="3" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="olivermath" sta="5" fin="5" won="2" fin_rev="0" fin_al="0" l_laps="5" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="olivermath" sta="6" fin="6" won="2" fin_rev="0" fin_al="0" l_laps="6" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="ravenbridge_mansion" sta="10" fin="5" won="5" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="sandtrack" sta="5" fin="4" won="1" fin_rev="0" fin_al="2" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="scotland" sta="7" fin="6" won="4" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>

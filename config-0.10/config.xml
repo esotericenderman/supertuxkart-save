@@ -48,7 +48,7 @@
         soccer-time-limit="3"
         soccer-use-time-limit="false"
         random-arena-item="false"
-        difficulty="3"
+        difficulty="2"
         game_mode="0"
         soccer-red-ai-num="0"
         soccer-blue-ai-num="0"
@@ -60,7 +60,7 @@
     </RaceSetup>
 
     <!-- Kart to select by default (the last used kart) -->
-    <kart value="amanda" />
+    <kart value="tux" />
 
     <!-- Last selected kart group -->
     <last_kart_group value="standard" />

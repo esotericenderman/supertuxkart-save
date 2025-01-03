@@ -260,6 +260,16 @@
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
   </highscore>
+  <highscore track-name    ="olivermath"
+             number-karts  ="8"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="5"
+             reverse       ="false">
+             <entry time    ="115.324"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
   <highscore track-name    ="mines"
              number-karts  ="8"
              difficulty    ="1"
