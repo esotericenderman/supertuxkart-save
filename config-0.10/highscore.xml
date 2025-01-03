@@ -678,6 +678,16 @@
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
   </highscore>
+  <highscore track-name    ="black_forest"
+             number-karts  ="1"
+             difficulty    ="1"
+             hscore-type   ="HST_LAP_TRIAL"
+             number-of-laps="180"
+             reverse       ="false">
+             <entry time    ="1"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
   <highscore track-name    ="lighthouse"
              number-karts  ="7"
              difficulty    ="1"
@@ -811,6 +821,17 @@
              reverse-type  ="0"
              minor-mode    ="1100">
              <entry time    ="772.607"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="3_tothemoonandback"
+             number-karts  ="8"
+             difficulty    ="2"
+             hscore-type   ="HST_GRANDPRIX"
+             number-of-laps="0"
+             reverse-type  ="0"
+             minor-mode    ="1101">
+             <entry time    ="629.981"
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
   </highscore>

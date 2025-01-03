@@ -49,7 +49,7 @@
         soccer-use-time-limit="false"
         random-arena-item="false"
         difficulty="1"
-        game_mode="3"
+        game_mode="7"
         soccer-red-ai-num="0"
         soccer-blue-ai-num="0"
         karts-powerup-gui="false"
@@ -259,6 +259,7 @@
         <gamemode-list gamemode="1101" num-karts="4"/>
         <gamemode-list gamemode="2000" num-karts="4"/>
         <gamemode-list gamemode="2001" num-karts="4"/>
+        <gamemode-list gamemode="4003" num-karts="1"/>
     </num-karts-per-gamemode>
 
     <!-- Graphics Quality Settings
