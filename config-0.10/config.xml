@@ -48,8 +48,8 @@
         soccer-time-limit="3"
         soccer-use-time-limit="false"
         random-arena-item="false"
-        difficulty="2"
-        game_mode="0"
+        difficulty="1"
+        game_mode="2"
         soccer-red-ai-num="0"
         soccer-blue-ai-num="0"
         karts-powerup-gui="false"
@@ -397,7 +397,7 @@ moving the mouse (means acceleration).
     <item_style value="items" />
 
     <!-- Name of the last track used. -->
-    <last_track value="olivermath" />
+    <last_track value="black_forest" />
 
     <!-- Last selected track group -->
     <last_track_group value="all" />
@@ -497,76 +497,5 @@ moving the mouse (means acceleration).
 
     <!-- Allows one to set commandline args in config file -->
     <commandline value="" />
-
-    <!-- Represents the saved state of a GP -->
-    <SavedGP
-        player_id="1"
-        gp_id="3_tothemoonandback"
-        race_type="1101"
-        difficulty="2"
-        player_karts="1"
-        last_track="4"
-        reverse_type="0"
-        skipped_tracks="0"
-        time_target="0.000000"
-        player_total_laps="0"
-    >
-        <Kart
-            ident="tux"
-            score="38"
-            local_player_id="0"
-            global_player_id="-1"
-            overall_time="492.615631"
-        />
-        <Kart
-            ident="puffy"
-            score="23"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="515.097900"
-        />
-        <Kart
-            ident="adiumy"
-            score="22"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="512.992432"
-        />
-        <Kart
-            ident="emule"
-            score="14"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="537.398926"
-        />
-        <Kart
-            ident="suzanne"
-            score="14"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="517.710571"
-        />
-        <Kart
-            ident="konqi"
-            score="12"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="533.864258"
-        />
-        <Kart
-            ident="amanda"
-            score="12"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="533.747620"
-        />
-        <Kart
-            ident="kiki"
-            score="5"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="550.982666"
-        />
-    </SavedGP>
 
 </stkconfig>
