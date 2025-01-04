@@ -48,7 +48,7 @@
         soccer-time-limit="3"
         soccer-use-time-limit="false"
         random-arena-item="false"
-        difficulty="1"
+        difficulty="2"
         game_mode="7"
         soccer-red-ai-num="0"
         soccer-blue-ai-num="0"
