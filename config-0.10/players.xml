@@ -9,7 +9,7 @@
             remember-password="false"
             default-kart-color="0">
       <story-mode first-time="false" finished="true" speedrun-finished="false"
-                  story-ms="17571407" speedrun-ms="27792252">
+                  story-ms="17571407" speedrun-ms="28486303">
         <abyss solved="hard" best_while_slower="false"/>
         <candela_city solved="hard" best_while_slower="false"/>
         <cocoa_temple solved="medium" best_while_slower="false"/>
@@ -36,7 +36,7 @@
         <unlock_bonus_kart2 solved="none" best_while_slower="false"/>
         <unlock_supertux solved="best" best_while_slower="false"/>
         <volcano_island solved="hard" best_while_slower="false"/>
-        <xr591 solved="medium" best_while_slower="false"/>
+        <xr591 solved="hard" best_while_slower="false"/>
         <zengarden solved="hard" best_while_slower="false"/>
       </story-mode>
       <achievements online="true"> 
@@ -57,22 +57,22 @@
           <var counter="57"/>
           <var counter="10"/>
           <var counter="1"/>
-          <var counter="1"/>
+          <var counter="0"/>
           <var counter="6"/>
-          <var counter="1"/>
+          <var counter="0"/>
           <var counter="5"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="70"/>
           <var counter="53"/>
-          <var counter="79"/>
-          <var counter="53"/>
+          <var counter="93"/>
+          <var counter="55"/>
           <var counter="20"/>
           <var counter="8"/>
-          <var counter="226"/>
+          <var counter="227"/>
           <var counter="91"/>
-          <var counter="27"/>
-          <var counter="21"/>
+          <var counter="41"/>
+          <var counter="23"/>
           <var counter="3"/>
           <var counter="3"/>
           <var counter="1"/>
@@ -87,23 +87,23 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="1768"/>
-          <var counter="15"/>
+          <var counter="1774"/>
+          <var counter="2"/>
           <var counter="37"/>
           <var counter="169"/>
-          <var counter="2"/>
-          <var counter="6"/>
-          <var counter="73"/>
-          <var counter="2"/>
-          <var counter="4"/>
-          <var counter="299"/>
-          <var counter="5"/>
-          <var counter="10"/>
-          <var counter="142"/>
           <var counter="0"/>
           <var counter="6"/>
-          <var counter="1614"/>
-          <var counter="18"/>
+          <var counter="73"/>
+          <var counter="0"/>
+          <var counter="4"/>
+          <var counter="299"/>
+          <var counter="0"/>
+          <var counter="10"/>
+          <var counter="143"/>
+          <var counter="1"/>
+          <var counter="6"/>
+          <var counter="1699"/>
+          <var counter="14"/>
           <var counter="35"/>
           <var counter="0"/>
           <var counter="17"/>
@@ -126,7 +126,7 @@
           <track_stats ident="snowtuxpeak" sta="5" fin="4" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="stk_enterprise" sta="5" fin="4" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="volcano_island" sta="4" fin="4" won="4" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="xr591" sta="3" fin="3" won="0" fin_rev="0" fin_al="1" l_laps="1" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="xr591" sta="17" fin="5" won="0" fin_rev="0" fin_al="3" l_laps="3" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="zengarden" sta="6" fin="5" won="3" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
       </achievements>
     </player>
