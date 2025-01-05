@@ -9,7 +9,7 @@
             remember-password="false"
             default-kart-color="0">
       <story-mode first-time="false" finished="true" speedrun-finished="false"
-                  story-ms="17571407" speedrun-ms="27396317">
+                  story-ms="17571407" speedrun-ms="27792252">
         <abyss solved="hard" best_while_slower="false"/>
         <candela_city solved="hard" best_while_slower="false"/>
         <cocoa_temple solved="medium" best_while_slower="false"/>
@@ -22,7 +22,7 @@
         <granparadiso_island solved="hard" best_while_slower="false"/>
         <green_valley solved="hard" best_while_slower="false"/>
         <hacienda solved="hard" best_while_slower="false"/>
-        <lighthouse solved="medium" best_while_slower="false"/>
+        <lighthouse solved="hard" best_while_slower="false"/>
         <mansion solved="hard" best_while_slower="false"/>
         <mines solved="hard" best_while_slower="false"/>
         <minigolf solved="hard" best_while_slower="false"/>
@@ -53,8 +53,8 @@
         <achievement id="11" achieved="false"/>
         <achievement id="12" achieved="false"/>
           <data version="4"/>
-          <var counter="67"/>
-          <var counter="56"/>
+          <var counter="68"/>
+          <var counter="57"/>
           <var counter="10"/>
           <var counter="1"/>
           <var counter="1"/>
@@ -65,12 +65,12 @@
           <var counter="0"/>
           <var counter="70"/>
           <var counter="53"/>
-          <var counter="75"/>
-          <var counter="51"/>
+          <var counter="79"/>
+          <var counter="53"/>
           <var counter="20"/>
           <var counter="8"/>
-          <var counter="221"/>
-          <var counter="89"/>
+          <var counter="226"/>
+          <var counter="91"/>
           <var counter="27"/>
           <var counter="21"/>
           <var counter="3"/>
@@ -87,23 +87,23 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="1735"/>
-          <var counter="3"/>
+          <var counter="1768"/>
+          <var counter="15"/>
           <var counter="37"/>
-          <var counter="164"/>
-          <var counter="0"/>
-          <var counter="6"/>
-          <var counter="70"/>
-          <var counter="0"/>
-          <var counter="4"/>
-          <var counter="289"/>
-          <var counter="0"/>
-          <var counter="10"/>
-          <var counter="142"/>
+          <var counter="169"/>
           <var counter="2"/>
           <var counter="6"/>
-          <var counter="1575"/>
-          <var counter="17"/>
+          <var counter="73"/>
+          <var counter="2"/>
+          <var counter="4"/>
+          <var counter="299"/>
+          <var counter="5"/>
+          <var counter="10"/>
+          <var counter="142"/>
+          <var counter="0"/>
+          <var counter="6"/>
+          <var counter="1614"/>
+          <var counter="18"/>
           <var counter="35"/>
           <var counter="0"/>
           <var counter="17"/>
@@ -115,7 +115,7 @@
           <track_stats ident="fortmagma" sta="5" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="gran_paradiso_island" sta="15" fin="8" won="3" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="hacienda" sta="5" fin="4" won="3" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="lighthouse" sta="4" fin="4" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="lighthouse" sta="8" fin="6" won="3" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="mines" sta="18" fin="5" won="4" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="minigolf" sta="11" fin="7" won="4" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="olivermath" sta="8" fin="8" won="4" fin_rev="0" fin_al="0" l_laps="8" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
