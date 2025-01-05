@@ -9,7 +9,7 @@
             remember-password="false"
             default-kart-color="0">
       <story-mode first-time="false" finished="true" speedrun-finished="false"
-                  story-ms="17571407" speedrun-ms="27143236">
+                  story-ms="17571407" speedrun-ms="27396317">
         <abyss solved="hard" best_while_slower="false"/>
         <candela_city solved="hard" best_while_slower="false"/>
         <cocoa_temple solved="medium" best_while_slower="false"/>
@@ -31,7 +31,7 @@
         <scotland solved="hard" best_while_slower="false"/>
         <snowmountain solved="hard" best_while_slower="false"/>
         <snowpeak solved="hard" best_while_slower="false"/>
-        <stk_enterprise solved="medium" best_while_slower="false"/>
+        <stk_enterprise solved="hard" best_while_slower="false"/>
         <unlock_bonus_kart1 solved="best" best_while_slower="false"/>
         <unlock_bonus_kart2 solved="none" best_while_slower="false"/>
         <unlock_supertux solved="best" best_while_slower="false"/>
@@ -53,9 +53,9 @@
         <achievement id="11" achieved="false"/>
         <achievement id="12" achieved="false"/>
           <data version="4"/>
-          <var counter="66"/>
+          <var counter="67"/>
           <var counter="56"/>
-          <var counter="9"/>
+          <var counter="10"/>
           <var counter="1"/>
           <var counter="1"/>
           <var counter="6"/>
@@ -65,14 +65,14 @@
           <var counter="0"/>
           <var counter="70"/>
           <var counter="53"/>
-          <var counter="73"/>
-          <var counter="50"/>
+          <var counter="75"/>
+          <var counter="51"/>
           <var counter="20"/>
           <var counter="8"/>
-          <var counter="220"/>
+          <var counter="221"/>
           <var counter="89"/>
-          <var counter="25"/>
-          <var counter="20"/>
+          <var counter="27"/>
+          <var counter="21"/>
           <var counter="3"/>
           <var counter="3"/>
           <var counter="1"/>
@@ -87,23 +87,23 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="1731"/>
-          <var counter="26"/>
+          <var counter="1735"/>
+          <var counter="3"/>
           <var counter="37"/>
           <var counter="164"/>
-          <var counter="3"/>
+          <var counter="0"/>
           <var counter="6"/>
           <var counter="70"/>
           <var counter="0"/>
           <var counter="4"/>
           <var counter="289"/>
-          <var counter="4"/>
-          <var counter="10"/>
-          <var counter="139"/>
           <var counter="0"/>
+          <var counter="10"/>
+          <var counter="142"/>
+          <var counter="2"/>
           <var counter="6"/>
-          <var counter="1553"/>
-          <var counter="13"/>
+          <var counter="1575"/>
+          <var counter="17"/>
           <var counter="35"/>
           <var counter="0"/>
           <var counter="17"/>
@@ -124,7 +124,7 @@
           <track_stats ident="scotland" sta="7" fin="6" won="4" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="snowmountain" sta="10" fin="9" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="snowtuxpeak" sta="5" fin="4" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="stk_enterprise" sta="3" fin="3" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="stk_enterprise" sta="5" fin="4" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="volcano_island" sta="4" fin="4" won="4" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="xr591" sta="3" fin="3" won="0" fin_rev="0" fin_al="1" l_laps="1" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="zengarden" sta="6" fin="5" won="3" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
