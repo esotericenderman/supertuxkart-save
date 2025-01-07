@@ -52,6 +52,9 @@
              <entry time    ="122.758"
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
+             <entry time    ="129.1"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
   </highscore>
   <highscore track-name    ="xr591"
              number-karts  ="1"
@@ -204,6 +207,9 @@
              hscore-type   ="HST_STANDARD"
              number-of-laps="3"
              reverse       ="false">
+             <entry time    ="111.458"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
              <entry time    ="121.863"
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
@@ -291,6 +297,9 @@
              number-of-laps="3"
              reverse       ="false">
              <entry time    ="151.622"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+             <entry time    ="153.14"
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
              <entry time    ="154.388"
@@ -693,6 +702,16 @@
              number-of-laps="3"
              reverse       ="false">
              <entry time    ="143.479"
+                    name    ="Esoteric&#x20;Enderman"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="cocoa_temple"
+             number-karts  ="8"
+             difficulty    ="3"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="140.456"
                     name    ="Esoteric&#x20;Enderman"
                     kartname="tux"/>
   </highscore>

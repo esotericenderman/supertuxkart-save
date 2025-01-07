@@ -160,7 +160,7 @@
         remember_window_location="false"
         window_x="-1"
         window_y="-1"
-        show_fps="true"
+        show_fps="false"
         show_story_mode_timer="true"
         show_speedrun_timer="false"
         max_fps="120"
@@ -506,67 +506,67 @@ moving the mouse (means acceleration).
         race_type="1100"
         difficulty="3"
         player_karts="1"
-        last_track="3"
+        last_track="4"
         reverse_type="0"
         skipped_tracks="0"
         time_target="0.000000"
         player_total_laps="0"
     >
         <Kart
-            ident="emule"
-            score="23"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="419.301910"
-        />
-        <Kart
-            ident="adiumy"
-            score="18"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="429.902710"
-        />
-        <Kart
             ident="tux"
-            score="20"
+            score="34"
             local_player_id="0"
             global_player_id="-1"
-            overall_time="416.242462"
+            overall_time="541.211792"
         />
         <Kart
-            ident="sara_the_racer"
-            score="12"
+            ident="gnu"
+            score="21"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="439.329834"
+            overall_time="552.106079"
         />
         <Kart
-            ident="puffy"
-            score="19"
+            ident="kiki"
+            score="16"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="427.158173"
-        />
-        <Kart
-            ident="amanda"
-            score="8"
-            local_player_id="-1"
-            global_player_id="-1"
-            overall_time="442.121094"
+            overall_time="560.351990"
         />
         <Kart
             ident="wilber"
-            score="2"
+            score="14"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="457.212708"
+            overall_time="564.128662"
         />
         <Kart
-            ident="konqi"
-            score="3"
+            ident="adiumy"
+            score="22"
             local_player_id="-1"
             global_player_id="-1"
-            overall_time="449.279053"
+            overall_time="557.102417"
+        />
+        <Kart
+            ident="amanda"
+            score="9"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="589.359863"
+        />
+        <Kart
+            ident="gavroche"
+            score="11"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="565.680420"
+        />
+        <Kart
+            ident="emule"
+            score="13"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="568.711853"
         />
     </SavedGP>
 
