@@ -48,7 +48,7 @@
         soccer-time-limit="3"
         soccer-use-time-limit="false"
         random-arena-item="false"
-        difficulty="2"
+        difficulty="3"
         game_mode="7"
         soccer-red-ai-num="0"
         soccer-blue-ai-num="0"
@@ -498,5 +498,69 @@ moving the mouse (means acceleration).
 
     <!-- Allows one to set commandline args in config file -->
     <commandline value="" />
+
+    <!-- Represents the saved state of a GP -->
+    <SavedGP
+        player_id="1"
+        gp_id="1_penguinplayground"
+        race_type="1100"
+        difficulty="3"
+        player_karts="1"
+        last_track="4"
+        reverse_type="0"
+        skipped_tracks="0"
+        time_target="0.000000"
+        player_total_laps="0"
+    >
+        <Kart
+            ident="tux"
+            score="30"
+            local_player_id="0"
+            global_player_id="-1"
+            overall_time="567.894287"
+        />
+        <Kart
+            ident="gavroche"
+            score="23"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="573.877686"
+        />
+        <Kart
+            ident="puffy"
+            score="14"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="588.183899"
+        />
+        <Kart
+            ident="kiki"
+            score="12"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="589.505554"
+        />
+        <Kart
+            ident="suzanne"
+            score="14"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="582.907410"
+        />
+        <Kart
+            ident="amanda"
+            score="10"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="599.730164"
+        />
+        <Kart
+            ident="gnu"
+            score="9"
+            local_player_id="-1"
+            global_player_id="-1"
+            overall_time="600.106506"
+        />
+    </SavedGP>
 
 </stkconfig>
