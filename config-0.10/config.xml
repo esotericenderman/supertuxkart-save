@@ -8,7 +8,7 @@
              music_volume : Music volume from 0.0 to 1.0 -->
     <Audio
         sfx_on="true"
-        music_on="false"
+        music_on="true"
         sfx_volume="0.100000"
         music_volume="0.100000"
     >
