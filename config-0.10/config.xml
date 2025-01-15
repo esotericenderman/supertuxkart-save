@@ -37,7 +37,7 @@
              random-player-pos : Randomize the position of the players at the start of a race. Doesn't apply to story mode. -->
     <RaceSetup
         numkarts="4"
-        numlaps="4"
+        numlaps="2"
         gp-reverse="0"
         random-gp-num-tracks="1"
         ffa-time-limit="3"
@@ -210,15 +210,12 @@
 
     <!-- The stun servers that will be used to know the public address (ipv4 only) with port -->
     <ipv4-stun-servers>
-        <stun-server address="stunv4.7.supertuxkart.net:3478" ping="0"/>
-        <stun-server address="stunv4.8.supertuxkart.net:3478" ping="0"/>
-        <stun-server address="stunv4.linuxreviews.org:3478" ping="0"/>
+        <stun-server address="stunv4.7.supertuxkart.net:3478" ping="93"/>
+        <stun-server address="stunv4.8.supertuxkart.net:3478" ping="95"/>
     </ipv4-stun-servers>
 
     <!-- The stun servers that will be used to know the public address (including ipv6) with port -->
     <ipv6-stun-servers>
-        <stun-server address="stun.linuxreviews.org:3478" ping="0"/>
-        <stun-server address="stun.stunprotocol.org:3478" ping="0"/>
         <stun-server address="stun.supertuxkart.net:3478" ping="0"/>
     </ipv6-stun-servers>
 
@@ -398,7 +395,7 @@ moving the mouse (means acceleration).
     <item_style value="items" />
 
     <!-- Name of the last track used. -->
-    <last_track value="black_forest" />
+    <last_track value="ravenbridge_mansion" />
 
     <!-- Last selected track group -->
     <last_track_group value="all" />
