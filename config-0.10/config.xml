@@ -451,7 +451,7 @@ moving the mouse (means acceleration).
     </Handicap>
 
     <!-- Status of internet: 0 user wasn't asked, 1: allowed, 2: not allowed -->
-    <enable_internet value="2" />
+    <enable_internet value="1" />
 
     <!-- Everything related to hardware configuration.
              report-version : Version of hardware report that was reported last
