@@ -475,12 +475,12 @@ moving the mouse (means acceleration).
              addon_last_updated : Time addon-list was updated last.
              latest_addon_time : Latest approved addon time. -->
     <AddonServer
-        news_last_updated="0"
+        news_last_updated="1736971192"
         news_frequency="0"
         news_display_count=""
         last_important_message_id="-1"
-        addon_last_updated="0"
-        latest_addon_time="0"
+        addon_last_updated="1736971193"
+        latest_addon_time="1736812388"
     >
     </AddonServer>
 
