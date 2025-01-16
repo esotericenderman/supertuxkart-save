@@ -60,7 +60,7 @@
     </RaceSetup>
 
     <!-- Kart to select by default (the last used kart) -->
-    <kart value="tux" />
+    <kart value="amanda" />
 
     <!-- Last selected kart group -->
     <last_kart_group value="standard" />
@@ -212,10 +212,13 @@
     <ipv4-stun-servers>
         <stun-server address="stunv4.7.supertuxkart.net:3478" ping="93"/>
         <stun-server address="stunv4.8.supertuxkart.net:3478" ping="95"/>
+        <stun-server address="stunv4.linuxreviews.org:3478" ping="0"/>
     </ipv4-stun-servers>
 
     <!-- The stun servers that will be used to know the public address (including ipv6) with port -->
     <ipv6-stun-servers>
+        <stun-server address="stun.linuxreviews.org:3478" ping="0"/>
+        <stun-server address="stun.stunprotocol.org:3478" ping="0"/>
         <stun-server address="stun.supertuxkart.net:3478" ping="0"/>
     </ipv6-stun-servers>
 
@@ -472,11 +475,11 @@ moving the mouse (means acceleration).
              addon_last_updated : Time addon-list was updated last.
              latest_addon_time : Latest approved addon time. -->
     <AddonServer
-        news_last_updated="1736971192"
+        news_last_updated="1737054060"
         news_frequency="0"
         news_display_count=""
         last_important_message_id="-1"
-        addon_last_updated="1736971193"
+        addon_last_updated="1737054061"
         latest_addon_time="1736812388"
     >
     </AddonServer>
